@@ -27,7 +27,7 @@ body {
 .well {
     background-color: dodgerblue ;
     border-color: dodgerblue;
-    padding: 19px,19px,19px, 19px;
+
 }
 
 h1 {
@@ -36,7 +36,7 @@ h1 {
     color: yellow;
     font-weight: bold;
     text-align: center;
-    margin:0px;
+
 }
 
 ul {
@@ -50,7 +50,7 @@ ul a{
 
 .knightpride {
     background-image: url("NationalSchoolofExcellence.jpg");
-    height: 400px;
+    height: 325px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center
