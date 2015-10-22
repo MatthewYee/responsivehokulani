@@ -1,0 +1,66 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: white ;
+    background-color: #999999;
+
+}
+
+.header-image{
+    background-image: url("hokulani.jpg");
+    background-size: cover;
+    height :  200px;
+}
+
+.navbar-inverse{
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: yellow;
+    font-size:16px;
+    font-weight: bold;
+
+}
+
+.well {
+    background-color: dodgerblue ;
+    border-color: dodgerblue;
+    padding: 19px,19px,19px, 19px;
+}
+
+h1 {
+    font-size: 16px;
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    margin:0px;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+ul a{
+    color: white;
+}
+
+.knightpride {
+    background-image: url("NationalSchoolofExcellence.jpg");
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+h2{
+    font-size: 14px;
+    margin:0px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
